@@ -52,3 +52,4 @@ rm ./Dockerfile.data-container
 ```
 docker run --rm -it --volumes-from data k8s/kubectl:<tag> --server=http://<server-name>:8080 create -f /data/controller.yml
 ```
+
