@@ -3,6 +3,7 @@
 [![](https://imagelayers.io/badge/lachlanevenson/k8s-kubectl:latest.svg)](https://imagelayers.io/?images=lachlanevenson/k8s-kubectl:latest 'Get your own badge on imagelayers.io')
 
 # Supported tags and respective `Dockerfile` links
+* `v1.4.0-alpha.1`,    [(v1.4.0-alpha.1/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.4.0-alpha.1/Dockerfile)
 * `1.3.0`, `latest`    [(1.3.0/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.3.0/Dockerfile)
 * `1.2.5`,     [(1.2.5/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.2.5/Dockerfile)
 * `1.1.8`,     [(1.1.8/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.1.8/Dockerfile)
