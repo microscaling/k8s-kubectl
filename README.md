@@ -1,14 +1,14 @@
 # Kubernetes Client
 
-[![](https://images.microbadger.com/badges/image/lachlanevenson/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own image badge on microbadger.com")
-[![](https://images.microbadger.com/badges/version/lachlanevenson/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own version badge on microbadger.com")
-[![](https://images.microbadger.com/badges/commit/lachlanevenson/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own commit badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/microscaling/k8s-kubectl.svg)](http://microbadger.com/images/microscaling/k8s-kubectl "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/microscaling/k8s-kubectl.svg)](http://microbadger.com/images/microscaling/k8s-kubectl "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/commit/microscaling/k8s-kubectl.svg)](http://microbadger.com/images/microscaling/k8s-kubectl "Get your own commit badge on microbadger.com")
 
 # Supported tags and respective `Dockerfile` links
-* `1.3.6`, `latest`    [(1.3.6/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.3.6/Dockerfile)
-* `1.2.5`,     [(1.2.5/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.2.5/Dockerfile)
-* `1.1.8`,     [(1.1.8/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.1.8/Dockerfile)
-* `1.0.7`,     [(1.0.7/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.0.7/Dockerfile)
+* `1.3.6`, `latest`    [(1.3.6/Dockerfile)](https://github.com/microscaling/k8s-kubectl/blob/v1.3.6/Dockerfile)
+* `1.2.5`,     [(1.2.5/Dockerfile)](https://github.com/microscaling/k8s-kubectl/blob/v1.2.5/Dockerfile)
+* `1.1.8`,     [(1.1.8/Dockerfile)](https://github.com/microscaling/k8s-kubectl/blob/v1.1.8/Dockerfile)
+* `1.0.7`,     [(1.0.7/Dockerfile)](https://github.com/microscaling/k8s-kubectl/blob/v1.0.7/Dockerfile)
 
 
 ## Overview

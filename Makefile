@@ -1,6 +1,6 @@
 default: docker_build
 
-DOCKER_IMAGE ?= lachlanevenson/k8s-kubectl
+DOCKER_IMAGE ?= microscaling/k8s-kubectl
 DOCKER_TAG ?= `git rev-parse --abbrev-ref HEAD`
 
 docker_build:
